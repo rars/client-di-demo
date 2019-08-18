@@ -1,0 +1,2 @@
+From Visual Studio, build the solution and run 'Start'. It should start 'BooksApi' on 10000 and the demo server on 10001.
+If you go to http://localhost:10001/api/values then it should trigger it to make a request to the BooksApi using the NSwag generated client.
